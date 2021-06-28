@@ -1,6 +1,6 @@
 package tauseefahmedgithubapi
 
-import org.springframework.beans.factory.annotation.Autowire
+
 import org.springframework.beans.factory.annotation.Autowired
 
 class BootStrap {
